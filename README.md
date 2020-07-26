@@ -1,3 +1,3 @@
-# Weatehr app
+# Weather app
 
 Learning React Native by building a weather app
